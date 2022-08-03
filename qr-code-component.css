@@ -67,7 +67,7 @@ main .container .box img {
     border-radius: 4%;
 }
 
-main .container .box h2 {
+main .container .box h1 {
     padding: 0 0.313rem;
     color: var(--Dark-blue);
     font-size: 1.563rem;
